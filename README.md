@@ -1,4 +1,12 @@
 # pfBlocker-NG Deployment – pfSense Homelab Project
+<div>
+    <img src="https://img.shields.io/badge/-pfBlocker%20NG-1E90FF?&style=for-the-badge&logo=pfBlockerNG&logoColor=white" />
+</div>
+
+<div>
+    <img src="https://img.shields.io/badge/-pfSense-4D4D4D?&style=for-the-badge&logo=pfSense&logoColor=white" />
+</div>
+
 
 ## Overview
 
@@ -159,7 +167,11 @@ All enforcement policies functioned as expected.
 ---
 
 ## Demonstration
+<div>
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=YouTube&logoColor=white" />
+</div>
 
+<https://youtu.be/ezou4-Uut7s>
 A recorded video demonstration is available showing:
 
 * Live testing
